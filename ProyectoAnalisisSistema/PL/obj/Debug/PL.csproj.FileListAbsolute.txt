@@ -1,0 +1,10 @@
+C:\Users\pablo\source\repos\ProyectoAnalisisSistema\PL\bin\Debug\PL.exe.config
+C:\Users\pablo\source\repos\ProyectoAnalisisSistema\PL\bin\Debug\PL.exe
+C:\Users\pablo\source\repos\ProyectoAnalisisSistema\PL\bin\Debug\PL.pdb
+C:\Users\pablo\source\repos\ProyectoAnalisisSistema\PL\obj\Debug\PL.csprojAssemblyReference.cache
+C:\Users\pablo\source\repos\ProyectoAnalisisSistema\PL\obj\Debug\PL.Form1.resources
+C:\Users\pablo\source\repos\ProyectoAnalisisSistema\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Users\pablo\source\repos\ProyectoAnalisisSistema\PL\obj\Debug\PL.csproj.GenerateResource.cache
+C:\Users\pablo\source\repos\ProyectoAnalisisSistema\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\ProyectoAnalisisSistema\PL\obj\Debug\PL.exe
+C:\Users\pablo\source\repos\ProyectoAnalisisSistema\PL\obj\Debug\PL.pdb
